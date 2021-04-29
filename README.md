@@ -4,6 +4,6 @@ Navigating through intersections is one of the main challenging tasks for an aut
 
 CONFERENCE: IEEE Intelligent Vehicle 2021 (IV2021)
 
-LINK: 
+LINK: https://arxiv.org/abs/2104.13617
 
 VIDEO LINK: https://youtu.be/SnKUk2k9YCg | https://youtu.be/x28qRJXiQfo
